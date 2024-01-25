@@ -1,7 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1706223121
+::res://::1706223934
 icon.svg::CompressedTexture2D::8811949798488122397::1706221231::1706221237::1::::<><>::
-main.tscn::PackedScene::6392571063652689602::1706223121::0::1::::<><>::res://player.gd<>uid://iee16cus3ov1::::res://Images/Potato-removebg-preview.png
+main.tscn::PackedScene::6849498399924954458::1706223812::0::1::::<><>::
 player.gd::GDScript::-1::1706223119::0::1::::<>CharacterBody2D<>::
-::res://Images/::1706222230
-Potato-removebg-preview.png::CompressedTexture2D::570059190980434588::1706222230::1706222230::1::::<><>::
+player.tscn::PackedScene::6392571063652689602::1706223426::0::1::::<><>::res://player.gd<>uid://iee16cus3ov1::::res://Images/Potato-removebg-preview.png
+::res://Images/::1706223934
+Potato-removebg-preview.png::CompressedTexture2D::4026362280343145774::1706223932::1706223935::1::::<><>::
